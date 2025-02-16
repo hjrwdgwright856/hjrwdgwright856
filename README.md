@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm hjrwdgwright856
 
-<!--
-**hjrwdgwright856/hjrwdgwright856** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚵 🚴 🥋 Working on frameworks 🚵 🚴 🥋
 
-Here are some ideas to get you started:
+## About Me
+🛹 🛹 A beginner in tech communities 🛹 🛹
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🏄 🚣 Obsessed with technologies 🏄 🚣
+
+### Fun Facts
+🎸 🎪 🎳 A lover of content creation 🎸 🎪 🎳
+
+---
+🏓 🎳 🏑 🎧 🎽 Thanks for visiting my profile! 🏏 🎳 ✨ 🎪 🏊
